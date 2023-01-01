@@ -1,6 +1,6 @@
 # portfolio-yid
  
-<img align="center" src="https://user-images.githubusercontent.com/62628408/152209979-0890fce1-2450-4e4a-b65c-7cd7fc4c3daf.png">
+<img width="1673" alt="Screenshot 2023-01-01 at 11 25 57 AM" src="https://user-images.githubusercontent.com/57259174/210165127-4bf3f3f6-0658-41d6-ab84-351ca19a4d79.png">
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/107d7648-dd15-45d9-9637-2d13681b5f2c/deploy-status)](https://app.netlify.com/sites/victoreke/deploys)
 </p>
