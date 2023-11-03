@@ -8,6 +8,7 @@
   --text-secondary-color: #64707d;
   --bg-primary-color: #fff;
   --bg-secondary-color: #f2f2f2;
+  --bg-third-color: #ffffff;
   --other-color: #ccc;
   --navbar-bg: rgba(0, 0, 0, 0.1);
   --rotate-color: #000;
@@ -24,6 +25,7 @@
   --primary-color: #7360ff;
   --secondary-color: #989aef;
   --text-primary-color: #fff;
+  --text-dark-color: #000000;
   --text-secondary-color: #64707d;
   --bg-primary-color: #000;
   --bg-secondary-color: #111;
@@ -294,7 +296,7 @@ h4 {
 
 /* About */
 #about {
-  min-height: 100vh;
+  min-height: 60vh;
   background: var(--bg-secondary-color);
   padding-left: 1rem;
   padding-bottom: 1rem;
